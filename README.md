@@ -22,7 +22,7 @@ Typo fixes, mathematical corrections, and typesetting improvements are welcome. 
 
 ## License
 
-MIT License. Copyright (c) 2026 westlake-noter. See [LICENSE](LICENSE).
+MIT License. Copyright (c) 2026 westlake-drawer. See [LICENSE](LICENSE).
 
 ---
 
@@ -45,4 +45,4 @@ MIT License. Copyright (c) 2026 westlake-noter. See [LICENSE](LICENSE).
 
 ## 许可证
 
-采用 MIT 许可证，版权署名为 2026 westlake-noter，详见 [LICENSE](LICENSE)。
+采用 MIT 许可证，版权署名为 2026 westlake-drawer，详见 [LICENSE](LICENSE)。
